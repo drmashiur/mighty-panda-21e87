@@ -27,6 +27,14 @@
                 "style": "link"
             },
             {
+                "label": "Publications",
+                "url": "/publications/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -35,14 +43,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Publications",
-                "url": "/publications/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_social": true,
