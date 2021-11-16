@@ -31,13 +31,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I received Bachelor and Master of Science in Electrical Engineering degree from Toyohashi University of Technology (Japan), and PhD in physics from the Graduate University of Advanced Studies. I started my carrier by providing an engineering solution to the scientist community in biomedical, nanotechnology, and biosensors areas. The projects started with the designing of hardware and software from the conceptual phase, followed by the implementation phase, writing software for the system and data acquisition, and finally develop data analysis & reporting system.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Later I shifted to the managerial role to lead mobile apps, cloud solutions, artificial intelligence, analytics, web solutions, mobile health, telehealth, eHealth, wearable devices, internet of things (IoT), data healthcare, and digital healthcare products. I am passionate for Life Science and Healthcare and improving patients/users wellbeing through the use of Data and Digital health technologies. Enhance the overall patients and users experience through the use of emerging digital solutions. I have extensive management, R\&D, leadership and mentoring experience for in-house and remote team in Vietnam, Indonesia, Malaysia, Japan, Bangladesh, and India. Currently, I am working as a "Digital Healthcare Solutions Specialist" at Omron Healthcare, Singapore & Japan.
