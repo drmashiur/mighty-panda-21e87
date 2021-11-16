@@ -5,7 +5,7 @@ excerpt: >-
   industry over the past decade. Healthcare is no exception. The best-used data
   in healthcare has been a catalyst for patient-centric improvements in nearly
   every corner of the sector.
-date: '2019-08-24'
+date: '2021-08-24'
 thumb_img_path: /images/big_data_healthcare.jpeg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
