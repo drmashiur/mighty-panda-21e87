@@ -79,7 +79,7 @@
                 "label": "Facebook",
                 "url": "https://www.facebook.com/DrMashiur/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "facebook",
                 "new_window": true
             }
         ]
