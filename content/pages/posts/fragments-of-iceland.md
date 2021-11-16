@@ -41,13 +41,46 @@ seo:
       relativeUrl: true
 layout: post
 ---
+The availability and depth of big data have had a profound impact on every industry over the past decade. Healthcare is no exception. The best-used data in healthcare has been a catalyst for patient-centric improvements in nearly every corner of the sector. There have been increases in disease prevention, information about COVID-19 (believe me, it could be worse), as well as cost reductions to increase access to affordable treatments.
 
-Photo by [Anders Jildén](https://unsplash.com/photos/uO4Au3LrCtk)
 
-**Iceland** Enim nec dui nunc mattis enim ut tellus elementum sagittis. *Felis bibendum ut tristique et egestas quis ipsum suspendisse*. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Orci ac auctor augue mauris. Ut pharetra sit amet aliquam id diam. Lectus arcu bibendum at varius vel pharetra. Id nibh tortor id aliquet lectus proin nibh. Duis ut diam quam nulla porttitor massa id neque aliquam. Feugiat nibh sed pulvinar proin gravida. Dolor purus non enim praesent elementum. Pharetra convallis posuere morbi leo urna molestie. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere.
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus sit. Massa placerat duis ultricies lacus sed. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Lacus viverra vitae congue eu consequat ac felis donec et. Imperdiet dui accumsan sit amet nulla facilisi. Faucibus turpis in eu mi bibendum neque. Magna etiam tempor orci eu. Cursus turpis massa tincidunt dui ut ornare. A condimentum vitae sapien pellentesque habitant. Ut porttitor leo a diam sollicitudin tempor id eu.
+The population will continue to grow and life expectancies are projected to increase, but with the help of big data and smart hospitals, these changes can be managed. Big Data is expected to aid healthcare management in a number of ways which includes; making it easier for providers to make more efficient decisions about their patients' care plans based on available evidence-based treatments or procedures that work best for those particular cases. It also allows hospital staff members such as nurses, physicians technicians, etc., to have better information at hand when they need it most so crucial medical details like allergies and prescriptions don't go unchecked because there's no time to look them up during an emergency a situation where every second counts.
 
-Pulvinar pellentesque habitant morbi tristique senectus et netus et. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Erat nam at lectus urna duis. Lacinia quis vel eros donec ac odio. Eget nulla facilisi etiam dignissim diam quis. Arcu dictum varius duis at consectetur lorem donec massa. Egestas tellus rutrum tellus pellentesque eu. Egestas erat imperdiet sed euismod nisi porta. Nec feugiat in fermentum posuere urna. Viverra ipsum nunc aliquet bibendum enim. Fermentum odio eu feugiat pretium. Vestibulum rhoncus est pellentesque elit. Elit ut aliquam purus sit amet luctus venenatis. Donec ac odio tempor orci dapibus ultrices in. Vitae justo eget magna fermentum. At tellus at urna condimentum mattis pellentesque id nibh tortor. Arcu dictum varius duis at consectetur lorem donec massa. Malesuada proin libero nunc consequat interdum varius sit amet. Dui accumsan sit amet nulla facilisi. Ut venenatis tellus in metus vulputate.
+
+
+
+As populations continue increasing worldwide along with increased lifespans thanks to advances in health care.
+
+
+
+
+The availability and depth of big data have had a profound impact on every industry over the past decade. Healthcare is no exception. The best-used data in healthcare has been a catalyst for patient-centric improvements in nearly every corner of the sector. There have been increases in disease prevention, information about COVID-19 (believe me, it could be worse), as well as cost reductions to increase access to affordable treatments.
+
+
+
+
+Predictive analytics are transforming healthcare as the data pools being used for management purposes become more sharable. As electronic health records (EHRs) continue to grow in prevalence, so do predictive analytic applications because patients can now approve their personal information and share it with doctors across the globe who need similar demographics or side effects when prescribing treatments that have worked before
+
+
+
+
+\- something they may not know without this technology. With deep patient pools available through EHRs, physicians around the world will be able to better prescribe treatment plans tailored specifically towards each individual's 
+
+needs which is a major step forward for medical care!
+
+
+
+
+Telehealth has been a priority for many people, and COVID-19 is a good example of it. But it has been there since the beginning. Telehealth, when integrated with real-time data from apps and devices that allow for improved patient self-care (and data collection throughout the process), can be used to provide consultations previously impossible via telephone or videoconferencing. This includes those between doctors working remotely and patients who are able to communicate at their homes using their computers.
+
+
+
+
+One of the most common complaints about hospital care is the endless hunt many patients go through to find the right healthcare provider. Patients who are frustrated will often go to the ER instead of seeking treatment. This can lead to long waits and costly medical bills. Analytics and big data can be used to help patients feel confident that they are being treated in the right areas, thereby ensuring that emergency rooms are open when needed.
+
+
+
+
+Healthcare will continue to have numerous reasons to explore big data, diversify its use and improve patient care. With new opportunities being created every week for healthcare, the data industry is projected to grow from $169bn (2018) up to $274bn by 2022.
