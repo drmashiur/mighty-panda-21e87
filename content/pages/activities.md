@@ -1,6 +1,6 @@
 ---
 title: Activities
-subtitle: Stuffs that keep me busy
+subtitle: Stuff that keep me busy
 img_alt: lorem-ipsum
 seo:
   title: ''
