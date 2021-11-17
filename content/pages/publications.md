@@ -15,8 +15,6 @@ Links:
 
 *   <https://www.researchgate.net/profile/Mashiur_Rahman>
 
-
-
 # Peer Review Scientific Publications
 
 1.  Rapeechai Navawongse, Deepak Choudhury, Marlena Raczkowska, James C Stewart, Terrence Lim, **Mashiur Rahman**, Alicia Guek Geok Toh, Zhiping Wang, Adam Claridge-Chang. *Drosophila learn efficient paths to a food source, Neurobiology of Learning and Memory*,  2016, bioRxiv. DOI: <http://dx.doi.org/10.1101/033969> (cited by 7 papers)
@@ -25,7 +23,7 @@ Links:
 
 3.   A. Haque, F. Sultana, M. A. Awal, **Mashiur Rahman**, “*Efficiency Improvement of Bulk Heterojunction Organic  Photovoltaic Solar Cell through Device Architecture  Modification*”, International Journal of Engineering and Technology (IACSIT), Vol. 4, No. 5, October 2012. DOI: 10.7763/IJET.2012.V4.434
 
-4.   Hideyo Takatsuki, Madhukar Kolli, Kevin M. Rice, B. Scott Day, Shinichi Asano, **Mashiur Rahman**, Yue Zhang, Ryoki Ishikawa, Kazuhiro Kohama,  and Eric R. Blough, “*Assembly and Function of Myosin II on Ultraviolet/Ozone Patterned Trimethylchlorosilane Substrates *”, Journal of Bionanoscience,Vol.2, 1–7, 2008 DOI:10.1166/jbns.2008.024 (Cited by 3 papers) 
+4.   Hideyo Takatsuki, Madhukar Kolli, Kevin M. Rice, B. Scott Day, Shinichi Asano, **Mashiur Rahman**, Yue Zhang, Ryoki Ishikawa, Kazuhiro Kohama,  and Eric R. Blough, “\*Assembly and Function of Myosin II on Ultraviolet/Ozone Patterned Trimethylchlorosilane Substrates \*”, Journal of Bionanoscience,Vol.2, 1–7, 2008 DOI:10.1166/jbns.2008.024 (Cited by 3 papers) 
 
 5.  Michael Norton, B. Scott Day, Huan Cao, **Mashiur Rahman** and Aaron Gin,"*Arrays of Nanoarrays: Elements of Binding*", IEEE Sensors Journal, Vol. 8, No. 6, June 2008, p874-879 DOI:10.1109/JSEN.2008.923280
 
@@ -37,7 +35,7 @@ Links:
 
 9.  Z.L. Zhang, T. Hara, H. Oguri, Y.J. Mo, M. Aoyama, H. Yoshida, Y. H. Kim, **Mashiur Rahman**, R. Tero, T. Urisu, "*Fluorescence Recovery after Photobleaching Apparatus Using Second Harmonic of 1120 nm Semiconductor Laser for Illumination*". e-Journal of Surface Science and Nanotechnology, Vol. 3 (2005) p.254 DOI:10.1380/ejssnt.2005.254
 
-10. ** Mashiur Rahman**, R. Tero, T. Urisu, "*Shrinking of Spin-on-Glass Films Induced by Synchrotron Radiation and Its Application to the Three-Dimensional Microfabrications*", Japanese Journal of Applied Physics, Vol. 43, No. 6B (2004) p.3941. DOI: 10.1143/JJAP.43.3941
+10. \*\* Mashiur Rahman\*\*, R. Tero, T. Urisu, "*Shrinking of Spin-on-Glass Films Induced by Synchrotron Radiation and Its Application to the Three-Dimensional Microfabrications*", Japanese Journal of Applied Physics, Vol. 43, No. 6B (2004) p.3941. DOI: 10.1143/JJAP.43.3941
 
 11. R. Tero, **Mashiur Rahman**, T. Urisu, “*Characteristics of Synchroton Radiation Process and applications to Nano-Bioelectronics*”, Chemical Industry magazine Japan (Kagakukogaku), Vol.54 No.9 (2003) p.677.  ISSN:0451-2014.
 
@@ -161,8 +159,6 @@ USA:
 
 2.  A paradigm shift in healthcare, Mashiur Rahman, Jul 2018 <https://medium.com/@mashiurrahman_4599/a-paradigm-shift-in-healthcare-54d7b1e0792>
 
-*   *
 
-**
 
 *Updated on 16 June 2021*
