@@ -22,6 +22,14 @@
                 "style": "link"
             },
             {
+                "label": "Activities",
+                "url": "/activities/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Articles",
                 "url": "/style-guide/",
                 "style": "link"
@@ -43,14 +51,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Activities",
-                "url": "/activities/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
             }
         ],
         "has_social": true,
