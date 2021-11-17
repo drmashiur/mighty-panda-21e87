@@ -9,9 +9,13 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## ICANN 49 Ambassadors
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+With Sheau Ching Chong and Teddy Mantoro, I was selected as ICANN 49 Ambassadors (March 2014) by ISIF Asia for my social work. I am the co-founder of biggani.org (a Bengali language-based portal on science) and contributed for Shikkhok to provide education to the ruler people of Bangladesh.  
 
-- Lorem ipsum
-- dolor sit amet
+*   <https://isif.asia/capacity-building-icann-sponsors-isif-asia-ambassadors-at-icann-49-singapore/> 
+
+*   <https://youtu.be/11fUroZJmaY> 
+
+
+
